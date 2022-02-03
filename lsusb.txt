@@ -1,0 +1,4 @@
+/:  Bus 02.Port 1: Dev 1, Class=root_hub, Driver=xhci_hcd/1p, 5000M
+/:  Bus 01.Port 1: Dev 1, Class=root_hub, Driver=xhci_hcd/6p, 480M
+    |__ Port 2: Dev 11, If 0, Class=Hub, Driver=hub/4p, 480M
+        |__ Port 3: Dev 13, If 0, Class=Vendor Specific Class, Driver=r8152, 480M
